@@ -5,7 +5,7 @@ function Footer() {
     <>
       <div class="text-white bg-[#091E42] px-5 pt-4">
         <div class="flex justify-between ">
-          <img class="h-20" src="/proImgs/Trello-logodark.png" alt="Trello" />
+          <img class="h-20" src="/public/Trello-logodark.png" alt="Trello" />
           <a class="my-auto" href="">
             Log In
           </a>

@@ -16,7 +16,7 @@ function Cards() {
       </div>
       <div class="px-5 mt-10 justify-between text-[#091E42] bg-gradient-to-b from-[#EAE6FF] to-white py-5">
         <div>
-          <img src="/proImgs/viewboard.svg" alt="IMG NOT FOUND" />
+          <img src="/public/viewboard.svg" alt="IMG NOT FOUND" />
         </div>
         <div class="flex-col space-y-1 max-w-prose">
           <p>CHOOSE A VIEW</p>
@@ -32,7 +32,7 @@ function Cards() {
       <div class="px-5 mt-10 text-[#091E42] bg-gradient-to-b from-[#EAE6FF] to-white py-5">
         <div class="flex-col space-y-1 max-w-prose">
           <div>
-            <img src="/proImgs/card-back.svg" alt="IMG NOT FOUND" />
+            <img src="/public/card-back.svg" alt="IMG NOT FOUND" />
           </div>
           <p>DIVE INTO THE DETAILS</p>
           <p class="text-3xl font-medium">Cards contain everything you need</p>
@@ -47,7 +47,7 @@ function Cards() {
       </div>
       <div class="px-5 mt-10 text-[#091E42] bg-gradient-to-b from-[#EAE6FF] to-white py-5">
         <div>
-          <img src="/proImgs/automation.webp" alt="IMG NOT FOUND" />
+          <img src="/public/automation.webp" alt="IMG NOT FOUND" />
         </div>
         <div class="flex-col space-y-1 max-w-prose">
           <p>MEET YOUR NEW BUTLER</p>
@@ -63,7 +63,7 @@ function Cards() {
       </div>
       <div class="px-5 mt-10 text-[#091E42] bg-gradient-to-b from-[#EAE6FF] to-white py-5">
         <div>
-          <img src="/proImgs/power-ups.webp" alt="IMG NOT FOUND" />
+          <img src="/public/power-ups.webp" alt="IMG NOT FOUND" />
         </div>
         <div class="flex-col space-y-1 max-w-prose">
           <p>POWER-UPS</p>

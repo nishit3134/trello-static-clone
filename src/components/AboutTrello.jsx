@@ -6,7 +6,7 @@ function AboutTrello() {
       <div class="mt-10 px-6 text-[#091E42]">
         <div>
           <div>
-            <img class="h-32 w-16" src="/proImgs/tag.svg" alt="IMG NOT FOUND" />
+            <img class="h-32 w-16" src="/public/tag.svg" alt="IMG NOT FOUND" />
           </div>
           <div class="">
             <p class="text-xl font-medium">See Trello pricing</p>
@@ -25,7 +25,7 @@ function AboutTrello() {
           <div>
             <img
               class="h-32 w-16"
-              src="/proImgs/compass.svg"
+              src="/public/compass.svg"
               alt="IMG NOT FOUND"
             />
           </div>
@@ -44,7 +44,7 @@ function AboutTrello() {
       <div class="mt-6 px-6 text-[#091E42]">
         <div>
           <div>
-            <img class="h-32 w-16" src="/proImgs/sol.svg" alt="IMG NOT FOUND" />
+            <img class="h-32 w-16" src="/public/sol.svg" alt="IMG NOT FOUND" />
           </div>
           <div class="">
             <p class="text-xl font-medium">Discover Trello Enterprise</p>

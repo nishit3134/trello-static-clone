@@ -8,8 +8,8 @@ function Download() {
           Trello also works great on your smaller screen.
         </span>
         <div class="flex space-x-4 items-center my-3 mx-5">
-          <img class="h-10" src="/proImgs/play-store.svg" alt="GOOGLE PLAY" />
-          <img class="h-10" src="/proImgs/app-store.svg" alt="APP STORE" />
+          <img class="h-10" src="/public/play-store.svg" alt="GOOGLE PLAY" />
+          <img class="h-10" src="/public/app-store.svg" alt="APP STORE" />
         </div>
       </div>
     </>

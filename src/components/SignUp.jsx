@@ -18,7 +18,7 @@ function SignUp() {
           </p>
 
           <div class="flex justify-end h-20">
-            <img src="/proImgs/ebay.png" alt="eBay" />
+            <img src="/public/ebay.png" alt="eBay" />
           </div>
         </div>
       </div>

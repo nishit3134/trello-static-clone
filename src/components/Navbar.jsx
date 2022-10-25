@@ -9,7 +9,7 @@ function Navbar() {
             <div>
               <img
                 class="h-8 lg:h-9"
-                src="/proImgs/Trello_logo.svg.png"
+                src="/public/Trello_logo.svg.png"
                 alt="TRELLO LOGO"
               />
             </div>
