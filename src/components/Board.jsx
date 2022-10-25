@@ -28,7 +28,7 @@ function Board() {
         <br />
 
         <div>
-          <img src="/public/board.webp" alt="IMG NOT FOUND" />
+          <img src="/board.webp" alt="IMG NOT FOUND" />
         </div>
       </div>
 
@@ -41,24 +41,24 @@ function Board() {
         </div>
         <div>
           <div class="flex justify-center">
-            <img class="" src="/public/coinbase.svg" alt="IMG NOT FOUND" />
+            <img src="/coinbase.svg" alt="IMG NOT FOUND" />
           </div>
           <div class="flex justify-center">
-            <img src="/public/johnDeere.svg" alt="IMG NOT FOUND" />
+            <img src="/johnDeere.svg" alt="IMG NOT FOUND" />
           </div>
           <div class="flex justify-center">
-            <img src="/public/Grand-Hyatt.svg" alt="IMG NOT FOUND" />
+            <img src="/Grand-Hyatt.svg" alt="IMG NOT FOUND" />
           </div>
           <div class="flex justify-center">
-            <img src="/public/Google.svg" alt="IMG NOT FOUND" />
+            <img src="/Google.svg" alt="IMG NOT FOUND" />
           </div>
         </div>
         <div class="">
           <div class="flex justify-center">
-            <img src="/public/Visa.svg" alt="IMG NOT FOUND" />
+            <img src="/Visa.svg" alt="IMG NOT FOUND" />
           </div>
           <div class="flex justify-center">
-            <img class="h-20" src="/public/Zoom.webp" alt="IMG NOT FOUND" />
+            <img class="h-20" src="/Zoom.webp" alt="IMG NOT FOUND" />
           </div>
         </div>
       </div>

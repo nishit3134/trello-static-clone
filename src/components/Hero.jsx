@@ -5,7 +5,7 @@ function Hero() {
     <>
       <div class="px-3 text-[#091E42] lg:flex items-center justify-center lg:min-h-screen bg-gradient-to-b from-[#EAE6FF] to-white">
         <div class="flex justify-center pt-3 pr-5">
-          <img class="h-80 lg:h-96" src="/public/hero.webp" alt="HERO" />
+          <img class="h-80 lg:h-96" src="/hero.webp" alt="HERO" />
         </div>
         <div class="max-h-fit">
           <div class="mt-8 px-4">
